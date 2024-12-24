@@ -1,4 +1,5 @@
 #include <iostream>
+// this allocates the bytes of memroy malloc() whereas calloc() allocates the blocks of memory()
 //there are two ways for initilization of dynamic memory 
 //malloc()
 //calloc()
